@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A9A35E3B-C47B-C38B-585E-0875A50ED5E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.Utils.Scripts", "Boxophobic.Utils.Scripts.csproj", "{A5910C87-FCED-1068-B346-6676BD724F3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.Utils.Editor", "Boxophobic.Utils.Editor.csproj", "{953A981C-AC6E-F23E-622A-8E18543662E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.PolyverseSkies.Editor", "Boxophobic.PolyverseSkies.Editor.csproj", "{1ADB661C-EB13-8074-68C6-B9BE8B3AA809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.PolyverseSkies.Scripts", "Boxophobic.PolyverseSkies.Scripts.csproj", "{C95153B8-2104-440D-E6A4-FF2E6A85CD0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.PolyverseSkies.Runtime", "Boxophobic.PolyverseSkies.Runtime.csproj", "{2060EA3A-C3A5-BE67-20AE-E2BB9D49150C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9A35E3B-C47B-C38B-585E-0875A50ED5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A35E3B-C47B-C38B-585E-0875A50ED5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A35E3B-C47B-C38B-585E-0875A50ED5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A35E3B-C47B-C38B-585E-0875A50ED5E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5910C87-FCED-1068-B346-6676BD724F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5910C87-FCED-1068-B346-6676BD724F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5910C87-FCED-1068-B346-6676BD724F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5910C87-FCED-1068-B346-6676BD724F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953A981C-AC6E-F23E-622A-8E18543662E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953A981C-AC6E-F23E-622A-8E18543662E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953A981C-AC6E-F23E-622A-8E18543662E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953A981C-AC6E-F23E-622A-8E18543662E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADB661C-EB13-8074-68C6-B9BE8B3AA809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADB661C-EB13-8074-68C6-B9BE8B3AA809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADB661C-EB13-8074-68C6-B9BE8B3AA809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADB661C-EB13-8074-68C6-B9BE8B3AA809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C95153B8-2104-440D-E6A4-FF2E6A85CD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95153B8-2104-440D-E6A4-FF2E6A85CD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95153B8-2104-440D-E6A4-FF2E6A85CD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95153B8-2104-440D-E6A4-FF2E6A85CD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2060EA3A-C3A5-BE67-20AE-E2BB9D49150C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2060EA3A-C3A5-BE67-20AE-E2BB9D49150C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2060EA3A-C3A5-BE67-20AE-E2BB9D49150C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2060EA3A-C3A5-BE67-20AE-E2BB9D49150C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
